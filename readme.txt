@@ -3,7 +3,7 @@ igualmente en google Colab, es NECESARIO ejecutar cada parte de codigo de arriba
 La ultima casilla de codigo en la cual aparece "start()" es la que ejecuta la app y de esta manera se puede probar
 el juego, este SOLO IMPRIME EN CONSOLA. 
 
-NOTA: LEER DETENIDAMENTE LO QUE SE TIENE QUE DAR COMO INPUT EN CADA CASILLA.
+NOTA: LEER DETENIDAMENTE LO QUE SE TIENE QUE DAR COMO INPUT EN CADA CASILLA para seguir el funcionamiento normal de la misma.
 
 BONUS COMPLETADOS: 
 
